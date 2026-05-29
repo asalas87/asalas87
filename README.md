@@ -23,7 +23,7 @@ Experienced in modernization projects, REST APIs, CI/CD workflows, authenticatio
 
 Full stack document management platform built with .NET 8 and React.
 
-Features:
+#### Features
 
 * JWT authentication with refresh tokens
 * Document upload and storage
@@ -32,7 +32,8 @@ Features:
 * CI/CD pipelines
 * Multi-environment deployment
 
-Tech:
+#### Tech
+
 .NET 8, ASP.NET Core, React, TypeScript, SQL Server, MediatR, JWT.
 
 ## Contact
