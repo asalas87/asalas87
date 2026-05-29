@@ -1,16 +1,40 @@
-## Hi there 👋
+# Agustin Salas
 
-<!--
-**asalas87/asalas87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend / Full Stack .NET Developer focused on enterprise applications, backend architecture, and modern web development using .NET and React.
 
-Here are some ideas to get you started:
+Experienced in modernization projects, REST APIs, CI/CD workflows, authentication systems, and scalable application design using practices such as DDD and Clean Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* C#
+* .NET / ASP.NET Core
+* React / TypeScript
+* SQL Server
+* REST APIs
+* CI/CD
+* GitHub Actions
+* DDD / Clean Architecture
+* MediatR
+* Angular
+
+## Featured Project
+
+### Document Management Platform
+
+Full stack document management platform built with .NET 8 and React.
+
+Features:
+
+* JWT authentication with refresh tokens
+* Document upload and storage
+* Notification workflows
+* DDD and Clean Architecture
+* CI/CD pipelines
+* Multi-environment deployment
+
+Tech:
+.NET 8, ASP.NET Core, React, TypeScript, SQL Server, MediatR, JWT.
+
+## Contact
+
+* LinkedIn: linkedin.com/in/asalas87
